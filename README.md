@@ -1,5 +1,5 @@
 # Adaptive Graph Completion Based Incomplete Multi-view Clustering
-This is an example implementation of our paper:
+This is an example implementation of [our paper](https://ieeexplore.ieee.org/document/9154578):
 
 Jie Wen, Ke Yan, Zheng Zhang, Yong Xu, Junqian Wang, Lunke Fei, Bob Zhang, Adaptive Graph Completion Based Incomplete Multi-view Clustering, IEEE Transactions on Multimedia (TMM), DOI: 10.1109/TMM.2020.3013408, 2020.
 
